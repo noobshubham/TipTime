@@ -1,5 +1,8 @@
 package com.example.tiptime
 
+// NoobShubham completed this project entirely.
+// GitHub Repo Link: https://github.com/noobshubham/TipTime
+
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
