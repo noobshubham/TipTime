@@ -2,6 +2,11 @@ Project: Tip Time
 ==================================
 
 
+<p align="center">
+<a href="https://github.com/noobshubham/TipTime/releases"><img src="https://img.shields.io/github/downloads/noobshubham/TipTime/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
+</p>
+
+
 Introduction
 ------------
 
